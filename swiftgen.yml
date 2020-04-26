@@ -1,0 +1,9 @@
+##########
+# MyCoreUIFramework
+##########
+
+xcassets:
+  inputs: [Sources/Supporting Files/Colors.xcassets]
+  outputs:
+    - templateName: swift4
+      output: Sources/Supporting Files/SwiftGen/Assets.swift
